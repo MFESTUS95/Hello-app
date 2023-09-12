@@ -23,3 +23,8 @@ button{
     font-weight: 600;
     text-align: left;
 }
+.card{
+    width: 350px;
+    background-color: rgb(245, 242, 242);
+    padding: 20px;
+}
