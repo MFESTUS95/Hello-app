@@ -13,22 +13,19 @@ p{
     font-size: 14px;
     font-weight: 100;
     margin-bottom: 20px;
-    text-indent: 30px;
 }
-button{
+button,a{
     padding: 15px 25px;
     background-color: blue;
     border: 1px solid transparent;
     color: white;
     font-weight: 600;
     text-align: left;
+    text-decoration: none;
+    display: inline-block;
 }
 .card{
     width: 350px;
     background-color: rgb(245, 242, 242);
     padding: 20px;
-}
-.p{
-    font-weight: 600;
-    color: gold;
 }
