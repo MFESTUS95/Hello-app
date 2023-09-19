@@ -29,3 +29,9 @@ button,a{
     background-color: rgb(245, 242, 242);
     padding: 20px;
 }
+img{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    margin: auto;
+}
