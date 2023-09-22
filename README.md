@@ -9,3 +9,8 @@ for pulling updates from GitHub
 
 #check if it works
 
+#adding some new changes to readme to test pushing a 
+branch to GitHub repository. 
+
+#changes by CEO Festus
+
